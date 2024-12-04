@@ -2,6 +2,13 @@
 
 This project implements a **Role-Based Access Control (RBAC)** system using Django, providing secure authentication, authorization, and role management for a web application. The project allows administrators, moderators, and users to perform specific actions based on their assigned roles. It is designed with flexibility, security, and modularity in mind.
 
+UI
+![image](https://github.com/user-attachments/assets/1dad1cd9-6f56-41e5-89f1-7c7332e4b59c)
+![image](https://github.com/user-attachments/assets/99b25c07-ff3a-482b-ba08-961d35b5bbc1)
+![image](https://github.com/user-attachments/assets/b117dca8-44e6-42d0-968e-3c8c94fed690)
+When admin tries for user view but can gain privilage manually :  
+![image](https://github.com/user-attachments/assets/1078f043-46fd-4527-9be0-b31e39550f82)
+
 ---
 
 ## **Table of Contents**
@@ -21,41 +28,54 @@ This project implements a **Role-Based Access Control (RBAC)** system using Djan
 
 ## **Endpoints**
 
-### **1. Authentication**
+### **1. Authentication Endpoints**
 
-| **Method** | **Endpoint**        | **Description**                        | **Role**        |
-|------------|---------------------|----------------------------------------|-----------------|
-| POST       | `/auth/login/`      | Login and generate a JWT token.        | All roles       |
-| POST       | `/auth/logout/`     | Invalidate the JWT token.              | All roles       |
-| POST       | `/auth/register/`   | Register a new user.                   | Public          |
+![image](https://github.com/user-attachments/assets/14aaca50-3d9e-4c10-a540-8dac023e9fe7)
+![image](https://github.com/user-attachments/assets/d002a19e-9825-4b48-91a1-2aeb825be573)
+| **Method** | **Endpoint**                     | **Description**                | **Role**        |
+|------------|----------------------------------|--------------------------------|-----------------|
+| POST       | `/auth/register/`                | Register a new user.           | Public          |
+| POST       | `/auth/login/`                   | Login and obtain a JWT token.  | Public          |
+| POST       | `/auth/token/refresh/`           | Refresh JWT token.             | Authenticated   |
+| POST       | `/auth/logout/`                  | Logout and invalidate token.   | Authenticated   |
+
+---
+
+### **2. Admin Endpoints**
+
+![image](https://github.com/user-attachments/assets/ba426c62-a14f-427d-b352-333f8f58cd77)
+
+| **Method** | **Endpoint**                     | **Description**                | **Role**        |
+|------------|----------------------------------|--------------------------------|-----------------|
+| GET        | `/auth/admin-view/`              | Admin-only access endpoint.    | Admin           |
 
 ---
 
-### **2. User Endpoints**
-
-| **Method** | **Endpoint**         | **Description**                        | **Role**        |
-|------------|----------------------|----------------------------------------|-----------------|
-| GET        | `/user/profile/`     | View profile information.              | User, Moderator, Admin |
-| PATCH      | `/user/update/`      | Update user profile.                   | User, Moderator, Admin |
-
----
+![image](https://github.com/user-attachments/assets/d4e798ed-8b21-46eb-9e07-d630667ae2cf)
 
 ### **3. Moderator Endpoints**
 
-| **Method** | **Endpoint**         | **Description**                        | **Role**        |
-|------------|----------------------|----------------------------------------|-----------------|
-| GET        | `/mod/review/`       | Review pending content.                | Moderator, Admin |
-| POST       | `/mod/approve/`      | Approve submitted content.             | Moderator, Admin |
+| **Method** | **Endpoint**                     | **Description**                | **Role**        |
+|------------|----------------------------------|--------------------------------|-----------------|
+| GET        | `/auth/moderator-view/`          | Moderator-only access endpoint.| Moderator       |
 
 ---
 
-### **4. Admin Endpoints**
+### **4. Admin and Moderator Endpoints**
 
-| **Method** | **Endpoint**          | **Description**                        | **Role**        |
-|------------|-----------------------|----------------------------------------|-----------------|
-| GET        | `/admin/users/`       | View all users.                        | Admin           |
-| POST       | `/admin/assign-role/` | Assign or change a user's role.        | Admin           |
-| DELETE     | `/admin/delete-user/` | Delete a user.                         | Admin           |
+| **Method** | **Endpoint**                     | **Description**                | **Role**        |
+|------------|----------------------------------|--------------------------------|-----------------|
+| GET        | `/auth/admin-or-moderator-view/` | Shared access for Admins and Moderators. | Admin, Moderator |
+
+---
+
+### **5. User Endpoints**
+![image](https://github.com/user-attachments/assets/5e5024e8-ed62-45e0-8fdd-6e88719bc378)
+
+| **Method** | **Endpoint**                     | **Description**                | **Role**        |
+|------------|----------------------------------|--------------------------------|-----------------|
+| GET        | `/auth/user-view/`               | User-only access endpoint.     | User            |
+
 
 ## **Features**
 
