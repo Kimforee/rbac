@@ -95,8 +95,8 @@ When admin tries for user view but can gain privilage manually :
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/rbac-deploy.git
-cd rbac-deploy
+git clone https://github.com/kimforee/rbac.git
+cd rbac
 ```
 
 ### **2. Install Dependencies**
@@ -126,7 +126,7 @@ python manage.py runserver
 | `DJANGO_SECRET_KEY`    | The Django project's secret key.      |
 | `DEBUG`                | Set to `True` for development, `False` for production. |
 | `DATABASE_URL`         | Database connection URL (e.g., PostgreSQL). |
-| `ALLOWED_HOSTS`        | Comma-separated list of allowed hosts (e.g., `localhost, rbac-deploy.vercel.app`). |
+| `ALLOWED_HOSTS`        | Comma-separated list of allowed hosts (e.g., `localhost, rbac.vercel.app`). |
 | `JWT_SECRET`           | Secret key for signing JWT tokens.    |
 
 ---
