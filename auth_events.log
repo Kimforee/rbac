@@ -1,0 +1,2380 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ø¾"Y\x8ajBr²Q-')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET /register/ HTTP/1.1" 301 0
+code 400, message Bad request version ('\x1b1')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Rûc"5\x03i\x11u\x03WI\x8a9£Tä(ç\x05¾L`\x17´')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('½L\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x10!ÛgF«_¤|\x08âì\x7fîsÌ9R#ZdL\x8aH¿ì\x07\x0eßFx½4~4\x89«#\x19\x9a\x0e)')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('F^\x0fB1\x83i\x99?\x11§\x19\x04\x1b#Æ:êÝa\x02øveÎSJÊ²¼æÔ¾ÒY¬Ñ\x86¼\x88.Óji\x97')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x1b\x19\x05¨\x81¶áFµ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x19nÊ#¼1\x86\x96Ö¨\x17o4')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x9a\x8b0vuð£¬Ói"Þ\x94Õ\x19\x8cñVÄ\x9aò\x01¤;Fpo¾@TÊ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x003\x04ï\x04í')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('([rÊ*È\x16\x84\x8c\x08Ó\x8e2Þ¿{\x9c\x96Þx\x10ÖN\xadx¾ý\x04\x14Rwõj$ó\x14\x95ÔÙ*¡yü\x97¡\x9b2*\x87BR9tªör»ðh;Õ\x15:\x1a¤R\x8a\x04À\x91\x8dXØ"£d[\x8b\x108"ìK"L')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03a\x96-IÙ\x18H\x94¾\x9cùæÛ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('«ý\x9bliMÑÃ(6')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sºº\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('d\x1aæÃüDÜ\x8b\x9a<SQï')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00Di\x00\x05\x00\x03\x02h2\x00\x05\x00\x05\x01\x00\x00\x00\x00\x003\x04ï\x04íêê\x00\x01\x00\x11ì\x04Àã"*\x0e#$²¦É')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03à')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET /auth/admin-view/ HTTP/1.1" 301 0
+code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x1a\x1a\x00\x00\x00+\x00\x07\x06ZZ\x03\x04\x03\x03\x003\x04ï\x04í')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Users\91821\Desktop\VRV\rbac\rbac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+code 400, message Bad request version ('Ó\x93[§µ®b¼')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063ºº\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ("'Îgm°Y>\x05")
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x18\\ehe\x00°t\x81Àj*\x83\x88ÑKÓ\x9apÒv')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06szz\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('euéû\x88')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06szz\x00\x00\x00+\x00\x07\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x17\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Watching for file changes with StatReloader
+code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x10\x86\x97=`73BíN¥~©£¾\x95£LÐ6\x92S|ù\x8d§\x9b_°Í%\x1b\x00°K\x8aï³«¿v¦\x96·Ýñ\x0e´¯FÍ\x88÷¿RÄ¼ôØG\x99¥K÷\xad6ôô@Éò°Ã\x97\x14\x12¼8l³ßêD<T\x93ì[µ\x84Ã~Ã\x7f\x0e½AØÎè')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('VÌiµOw\x95')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('§ö\x95I\x0fh\x99Ö«E´\x02ÂÍ¹')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+code 400, message Bad request version ('Åww:\x96¬6-åùTµ\x12\x87ÝÈY½\x00{ÐÔ¥¾\x12\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00+\x00\x07\x06**\x03\x04\x03\x03\x00')
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03Ð¹¯')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Åq')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03Kgûã\x83ä\x82ë¤ÃhÿëI\x955ÅZÃ_ï½ô\x89\x08m\x11\x04²ô@t')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('y\x01÷_$\x8a|¿\x11T\x8e\x13I±Uæ{ê§mï®×x')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00Di\x00\x05\x00\x03\x02h2\x00\x1b\x00\x03\x02\x00\x02\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('û\x99Ûþ\x87\x8dÿwBT\x8a$\x1báH²cú@\x95\x03\x8f²ÚÆcG\x9b^\x05g\x94*')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+code 400, message Bad request version ('\x18\x94\x0e')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x1b\x00\x03\x02\x00\x02\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('p\x0f%')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('¨ª&]jSâ\x97åpÏ®ï\x13øô()')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Fã')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x88')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sJJ\x00\x00\x00#\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('nO')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('pø70~\x8cWÑg-')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x86E\x02\x06ê\x0f¹Ù¦Uðz÷;)\x8f4+êUf\x1353V\x83\x9a>\x84¬Ô\x08aÀ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('¾Z\x05Ö²¼,\x94ïjçv³R*3é\x84é±')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01ÿ\x01\x00\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Ó§')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('~\x8f!rø2\x8dÉ\x18?3£4À\x16LSV®´åGömh_\x142')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x17\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+code 400, message Bad request syntax ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x9c7Í¡Æì7Ï\x07fNAÖ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Ï"\x865ñÖ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET /admin/ HTTP/1.1" 301 0
+code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ("[UBé\x13<èì'\x12ë\x9bGf3RZµA$Ë^v\x0eÔÂbD²§Ä4Téâ\x14zZ\x8eX°\x82NE\x16í\x12R÷:\x8fß5\x9c4Ë%´úJÛæ\x8dÉJ")
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1Di\x00\x05\x00\x03\x02h2\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00#\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x1a\x89¤\x84èL·')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('h\x07\x92,q\x94ãkQ\x90jWbvUVm~f½\x17\\GÆzra\x97\x15+\x94\x02ÿñ\x810\x05\x11ë')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request syntax ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03y\x8f\x9e¾Áô©\x90ç¼ò½^m]Dp\x9aXPVÞß')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s\x8a\x8a\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03íwÑ#G:\x87hËÜ}f¯ÞHlÑ4&°\x87\x05\x13pO2°³áo\x07\x14')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x93Uë{I\x97ìÑè÷*¹wI.¼Þ\x1bð+9Ob\x04\xad\x15ìsÏL¹')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00ÿ\x01\x00\x01\x00Di\x00\x05\x00\x03\x02h2\x00#\x00\x00\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÐF\x8aA"Á´j±=¥\x07âo[')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03Ü<â\x90o2\x12÷\x12Ç\x9cú\x18\x96½±¼\x86\x15Ñ!4?\x04\x02l¢\x0fÃ\x92\x07!')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06s')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1ÿ\x01\x00\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('(\x10Å¤rïÉ\x95³R\x9c')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('V±\x1bk\x08ú\x97bn})<6Çç')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ø¬\x9fà')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÑÓfô\x00+\x00\x07\x06zz\x03\x04\x03\x03\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"GET /admin/accounts/user/ HTTP/1.1" 301 0
+code 400, message Bad request version ('÷\x95\x83Ïîk5\x02wpW¤h«ngî:Ïx½Ä<¢/dåÐÙ8\x03Öº{¶aP\x12gï\x00XY\x804')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('t\x84hë')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x087ÈZÚôâ\x94i\x82\x98ò')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('skãÏb}}C\x15«ô\x11\x01¼@{\x00Ð?}îGÐ÷5Ò3P\x1b')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x12\x00\x00\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Á£(¥4j\x87]<·1PÄSC_Ük.íf\x99U\x15\x03B,c@\x91Ï\x83ö\x8b¯ÉC[eYF')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 301 0
+code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03\x08¸Ð4k\x93oô\x93\x80')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('mvD\x80\x9flÓb\x02gÆ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('µ\x89EDj¤')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x19ÿ\x95Ë%X5Ã\x17É°Ä©\x93\x97¥ìÌÌ\x15Q\x99\x18')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('é\x84\x9aÎÃ\x89J)\x9d!·\x06\x94\x08Î¥\x9aW@ðhóÇnc\x8d4ìÒ·')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01Di\x00\x05\x00\x03\x02h2\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÖwuQ÷CjÔ\x90NlF')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('{\x89©â')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06À\x01\x00\x06¼\x03\x03\x07Wî~Õ\x08\x17ïT')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x1b\x00\x03\x02\x00\x02\x00\x12\x00\x00\x00\x17\x00\x00\x00+\x00\x07\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x13\x13\x04qAp3°ººâ¸\x17{q!\x95KR¨\x9cNZ\x97@\x07#\x7fç\x9dä¶Yµ\x9b3%õO\x0f)-®\x11¤AÌ,C*Àó\x92Ï{')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ("Sàw\x9a\x8cÓ\x8cfc\x8d\x95\x86¯¿üÉxó@÷bK+\x96k£'\x9d\x03\x81Ç\x0eË4v\x8a@\x06\x06\x00c1¤ÿ\x88Å¸¶\x9eôs5@\x1bH}9")
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Users\91821\Desktop\VRV\rbac\rbac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+code 400, message Bad request version ('\x00\x02\x01\x00\x00\x17\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01ÿ\x01\x00\x01\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('LîÀe.Êc')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x95+Ûü¥Ð+@\x12e\x15\x9bD£@')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Users\91821\Desktop\VRV\rbac\rbac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x12\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sZZ\x00\x00\x00\x1b\x00\x03\x02\x00\x02ÿ\x01\x00\x01\x00\x00+\x00\x07\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÀâÁM:\x82Í\x00ÖBú')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x88\x9c\x9dE\x87')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93\x9a\x9a\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x02\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00+\x00\x07\x06ºº\x03\x04\x03\x03\x00-\x00\x02\x01\x01ÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('zå\x94LZS8FÄ<\x19¬ïZ»¤¨\x1b\x0f\x98\x7f7o\x96Ï.iªaÞÎj\x00ð§°w¤LVîóq\x8cz')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ìGz\x0f')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063ºº\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('63\x80\\9SûX¼3È\x96Ñ\x87\x05ja\x88\x90üD£9@yÓpmpzu\x83\x15Ø;\x9cn\x98\x83\x1a\x07&1RzÞ¸\x81\x05\x9a~\x9cöc§ªµ{$/2')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x003\x04ï\x04í')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00+\x00\x07\x06ªª\x03\x04\x03\x03\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00#\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('åßcèß¼jÛ\x97\xad0_LJ\x94~6Û-\x93\x8dÊMÒ¿¬µ>U\x93|÷w\x91\x13s©¨2¬cyÓAÜØO\x91éÇ')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x19Û«é×')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06súú\x00\x00\x00')
+code 400, message Bad request version ('ëÄL¼±\x91øWøHI\x1a\x92\x01Ô;çc\x00r\x00òø,<\x8fþ5>(')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ªÂª\x81{sfê§È\x04|ÁpV<±\x8b4y)\x95Ò')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063\x1a\x1a\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Users\91821\Desktop\VRV\rbac\rbac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+code 400, message Bad request version ("ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S::\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x003\x04ï\x04í\x8a\x8a\x00\x01\x00\x11ì\x04À'ú\x05;d<ìë")
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00Di\x00\x05\x00\x03\x02h2ÿ\x01\x00\x01\x00\x00-\x00\x02\x01\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ZZ\x00\x00\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÐBî\x8b³ì\x94')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('&8©\x02')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('0ºÅÐn0v¸àËÌKÛ:\x00°íÍ\x86ÊÁÌÓc2Ã.\x84\x9f\x8a]\x9fÿ;1çhÚ\x8d\x12Àl:\x82Ä´\x13ÿoL')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03/')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('Ip\x9c\x05ÊñrK\x16\\%sòË})\x06.r\x9cT3')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x16I-jCsÃû/Ð\x87¶\x8cz6er£}¬QÉ\x05\x91¿õ/\x05¨R\x956\x91\x90y£\x10)\x04\x92Ë¦w¼Ozh{\x92\x15y^\x99;×\x13\x17\x98ÇÇ2[\x91pãW')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('L¹IO\x12Z¯\x92óA·\x84\x07\xaduK^ÖR_YLö\x9a¨)×§.\x9f±·\x9a\x9ap\x96Q³«')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('v\x12p\x91p\x1b')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('ÐMp')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x10ò\x91\x01ª0@ÆCª0\x01ª°²')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x17\x00\x00\x00+\x00\x07\x06ÊÊ\x03\x04\x03\x03\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('F\x8a«\x00+ú\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"POST /auth/login/ HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"POST /auth/login/ HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /auth/login/ HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Users\91821\Desktop\VRV\rbac\rbac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /auth/login/ HTTP/1.1" 301 0
+code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00å\x01\x00\x00á\x03\x03$')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+"POST /auth/login/ HTTP/1.1" 301 0
+code 400, message Bad request version ('À\x13À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+D:\Users\91821\Desktop\VRV\rbac\rbac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1407
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 2504
+Method Not Allowed: /auth/register/
+"GET /auth/register/ HTTP/1.1" 405 5571
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+Method Not Allowed: /auth/login/
+"GET /auth/login/ HTTP/1.1" 405 7516
+"GET / HTTP/1.1" 200 1407
+Method Not Allowed: /auth/login/
+"GET /auth/login/ HTTP/1.1" 405 7516
+User 'vrv' logged in successfully.
+"POST /auth/login/ HTTP/1.1" 200 8000
+D:\Users\91821\Desktop\VRV\rbac\rbac\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1524
+Method Not Allowed: /auth/login/
+"GET /auth/login/ HTTP/1.1" 405 7516
+Method Not Allowed: /auth/login/
+"GET /auth/login/ HTTP/1.1" 405 7516
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 2504
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 2504
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1197
+Forbidden: /auth/user-view-fron/
+"GET /auth/user-view-fron/ HTTP/1.1" 403 31
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1534
+Method Not Allowed: /auth/login/
+"GET /auth/login/ HTTP/1.1" 405 7580
+Method Not Allowed: /auth/login/
+"GET /auth/login/ HTTP/1.1" 405 7580
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1207
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1432
+"GET / HTTP/1.1" 200 1432
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2662
+Method Not Allowed: /auth/register/
+"GET /auth/register/ HTTP/1.1" 405 5638
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+Method Not Allowed: /auth/register/
+"GET /auth/register/ HTTP/1.1" 405 5638
+Method Not Allowed: /auth/register/
+"GET /auth/register/ HTTP/1.1" 405 5638
+"GET / HTTP/1.1" 200 1442
+"GET / HTTP/1.1" 200 1442
+"GET / HTTP/1.1" 200 1442
+"GET /auth/register-fron/ HTTP/1.1" 200 2059
+"GET /auth/login-fron/ HTTP/1.1" 200 1667
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1544
+Forbidden: /auth/user-view-fron/
+"GET /auth/user-view-fron/ HTTP/1.1" 403 31
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1207
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1442
+"GET /auth/login-fron/ HTTP/1.1" 200 1667
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1544
+"GET / HTTP/1.1" 200 1689
+"GET / HTTP/1.1" 200 1689
+"GET / HTTP/1.1" 200 1582
+"GET / HTTP/1.1" 200 1582
+"GET /auth/login-fron/ HTTP/1.1" 200 1807
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1582
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1245
+Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py", line 21, in home
+    return render(request, 'home.html')
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout-fron' not found. 'logout-fron' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 170359
+"GET / HTTP/1.1" 200 1626
+"GET / HTTP/1.1" 200 1647
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1523
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1523
+"GET / HTTP/1.1" 200 1523
+"GET / HTTP/1.1" 200 1523
+"GET /auth/admin-view-fron/ HTTP/1.1" 302 0
+Not Found: /accounts/login/
+"GET /accounts/login/?next=/auth/admin-view-fron/ HTTP/1.1" 404 2702
+"GET /auth/user-view-fron/ HTTP/1.1" 302 0
+Not Found: /accounts/login/
+"GET /accounts/login/?next=/auth/user-view-fron/ HTTP/1.1" 404 2701
+"GET /auth/admin-view-fron/ HTTP/1.1" 302 0
+Not Found: /accounts/login/
+"GET /accounts/login/?next=/auth/admin-view-fron/ HTTP/1.1" 404 2702
+"GET /auth/login-fron/ HTTP/1.1" 200 1683
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1647
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1245
+Forbidden: /auth/user-view-fron/
+"GET /auth/user-view-fron/ HTTP/1.1" 403 31
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 3030
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1245
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 2504
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1523
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 2504
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1523
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 2504
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1523
+"GET /auth/login-fron/ HTTP/1.1" 200 1683
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1647
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1245
+"GET / HTTP/1.1" 200 1647
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1245
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1245
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1245
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1245
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1245
+"GET / HTTP/1.1" 200 1647
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1523
+"GET /auth/admin-view-fron/ HTTP/1.1" 302 0
+Not Found: /accounts/login/
+"GET /accounts/login/?next=/auth/admin-view-fron/ HTTP/1.1" 404 2550
+"GET /auth/admin-view-fron/ HTTP/1.1" 302 0
+Not Found: /accounts/login/
+"GET /accounts/login/?next=/auth/admin-view-fron/ HTTP/1.1" 404 2550
+"GET /auth/register-fron/ HTTP/1.1" 200 2077
+"GET /auth/register-fron/ HTTP/1.1" 200 2077
+"GET /auth/register-fron/ HTTP/1.1" 200 2077
+"GET / HTTP/1.1" 200 1463
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 2504
+"GET /auth/login-fron/ HTTP/1.1" 200 1683
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1657
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1245
+Forbidden: /auth/user-view-fron/
+"GET /auth/user-view-fron/ HTTP/1.1" 403 31
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /auth/login-fron/ HTTP/1.1" 200 1807
+"GET /admin/ HTTP/1.1" 200 8687
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /admin/ HTTP/1.1" 200 7692
+"GET /admin/token_blacklist/blacklistedtoken/ HTTP/1.1" 200 8998
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9097
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/token_blacklist/outstandingtoken/ HTTP/1.1" 200 10039
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/accounts/user/ HTTP/1.1" 200 13565
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1657
+"GET /auth/user-view-fron/ HTTP/1.1" 200 1241
+"GET /auth/user-view-fron/ HTTP/1.1" 200 1241
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1657
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET /auth/user-view-fron/ HTTP/1.1" 200 1241
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 2504
+"GET /auth/register-fron/ HTTP/1.1" 200 2201
+D:\Users\91821\Desktop\VRV\rbac\accounts\admin.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\admin.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/accounts/user/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 200 3831
+"GET /static/admin/css/login.css HTTP/1.1" 304 0
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /auth/register-fron/ HTTP/1.1" 200 2531
+"GET / HTTP/1.1" 200 1657
+"GET /auth/login-fron/ HTTP/1.1" 200 1807
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1657
+Forbidden: /auth/user-view-fron/
+"GET /auth/user-view-fron/ HTTP/1.1" 403 31
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1245
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1463
+"GET /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 200 4385
+"POST /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 302 0
+"GET /admin/accounts/user/ HTTP/1.1" 200 13983
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/group/ HTTP/1.1" 200 10687
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/group/1/change/ HTTP/1.1" 200 13461
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8794
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11564
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15502
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+"GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+"GET /admin/auth/group/ HTTP/1.1" 200 10687
+"GET /admin/accounts/user/ HTTP/1.1" 200 13983
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /auth/login-fron/ HTTP/1.1" 200 1828
+"GET /auth/login-fron/ HTTP/1.1" 200 1828
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1266
+"GET / HTTP/1.1" 200 1678
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1266
+Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 180, in translate_token
+    op = OPERATORS[token]
+KeyError: "user.groups.filter(name='Moderator').exists()"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py", line 21, in home
+    return render(request, 'home.html')
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 962, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 961, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 894, in __init__
+    super().__init__(*args, **kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 171, in __init__
+    mapped_tokens.append(self.translate_token(token))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 182, in translate_token
+    return self.create_var(token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 897, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 605, in compile_filter
+    return FilterExpression(token, self)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 706, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '(name='Moderator').exists()' from 'user.groups.filter(name='Moderator').exists()'
+"GET / HTTP/1.1" 500 230422
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 180, in translate_token
+    op = OPERATORS[token]
+KeyError: "user.groups.filter(name='Moderator').exists()"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py", line 21, in home
+    return render(request, 'home.html')
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 962, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 961, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 894, in __init__
+    super().__init__(*args, **kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 171, in __init__
+    mapped_tokens.append(self.translate_token(token))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 182, in translate_token
+    return self.create_var(token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 897, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 605, in compile_filter
+    return FilterExpression(token, self)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 706, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '(name='Moderator').exists()' from 'user.groups.filter(name='Moderator').exists()'
+"GET / HTTP/1.1" 500 230458
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 180, in translate_token
+    op = OPERATORS[token]
+KeyError: "user.groups.filter(name='Moderator').exists()"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py", line 21, in home
+    return render(request, 'home.html')
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 962, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 961, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 894, in __init__
+    super().__init__(*args, **kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 171, in __init__
+    mapped_tokens.append(self.translate_token(token))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 182, in translate_token
+    return self.create_var(token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 897, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 605, in compile_filter
+    return FilterExpression(token, self)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 706, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '(name='Moderator').exists()' from 'user.groups.filter(name='Moderator').exists()'
+"GET / HTTP/1.1" 500 230696
+D:\Users\91821\Desktop\VRV\rbac\accounts\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 180, in translate_token
+    op = OPERATORS[token]
+KeyError: "user.groups.filter(name='Moderator').exists()"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py", line 21, in home
+    return render(request, 'home.html')
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 962, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 961, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 894, in __init__
+    super().__init__(*args, **kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 171, in __init__
+    mapped_tokens.append(self.translate_token(token))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 182, in translate_token
+    return self.create_var(token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 897, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 605, in compile_filter
+    return FilterExpression(token, self)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 706, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '(name='Moderator').exists()' from 'user.groups.filter(name='Moderator').exists()'
+"GET / HTTP/1.1" 500 230392
+"GET /admin/auth/group/ HTTP/1.1" 200 10156
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /admin/auth/group/2/change/ HTTP/1.1" 200 12827
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/group/ HTTP/1.1" 200 10037
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 180, in translate_token
+    op = OPERATORS[token]
+KeyError: "user.groups.filter(name='Moderator').exists()"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py", line 21, in home
+    return render(request, 'home.html')
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 962, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 961, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 894, in __init__
+    super().__init__(*args, **kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 171, in __init__
+    mapped_tokens.append(self.translate_token(token))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 182, in translate_token
+    return self.create_var(token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 897, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 605, in compile_filter
+    return FilterExpression(token, self)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 706, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '(name='Moderator').exists()' from 'user.groups.filter(name='Moderator').exists()'
+"GET / HTTP/1.1" 500 229383
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 180, in translate_token
+    op = OPERATORS[token]
+KeyError: "user.groups.filter(name='Moderator').exists()"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py", line 24, in home
+    return render(request, "home.html", {
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 962, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 961, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 894, in __init__
+    super().__init__(*args, **kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 171, in __init__
+    mapped_tokens.append(self.translate_token(token))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 182, in translate_token
+    return self.create_var(token)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 897, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 605, in compile_filter
+    return FilterExpression(token, self)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 706, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '(name='Moderator').exists()' from 'user.groups.filter(name='Moderator').exists()'
+"GET / HTTP/1.1" 500 229813
+"GET / HTTP/1.1" 200 1498
+"GET /auth/register-fron/ HTTP/1.1" 200 2428
+Internal Server Error: /auth/register-fron/
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\accounts\views.py", line 35, in register_view
+    if User.objects.filter(username=username).exists():
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\db\models\manager.py", line 196, in __get__
+    raise AttributeError(
+AttributeError: Manager isn't available; 'auth.User' has been swapped for 'accounts.User'
+"POST /auth/register-fron/ HTTP/1.1" 500 85879
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py", line 24, in home
+    return render(request, "home.html", {
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 327, in render
+    return nodelist.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 327, in render
+    return nodelist.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 1008, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'admin_moderator_view' not found. 'admin_moderator_view' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 204827
+"GET / HTTP/1.1" 200 1825
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 1312
+"GET /admin/ HTTP/1.1" 200 6871
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /admin/auth/group/ HTTP/1.1" 200 10037
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 6871
+Forbidden: /auth/user-view-fron/
+"GET /auth/user-view-fron/ HTTP/1.1" 403 31
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1266
+"GET / HTTP/1.1" 200 1800
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1489
+"GET / HTTP/1.1" 200 1352
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 2504
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4291
+Not Found: /api_ui
+"GET /api_ui HTTP/1.1" 404 2495
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api-auth
+"GET /api-auth HTTP/1.1" 404 2653
+"GET / HTTP/1.1" 200 1352
+"GET /auth/login-fron/ HTTP/1.1" 200 1704
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1820
+Forbidden: /auth/user-view-fron/
+"GET /auth/user-view-fron/ HTTP/1.1" 403 31
+"GET / HTTP/1.1" 200 1814
+"GET / HTTP/1.1" 200 1814
+"GET / HTTP/1.1" 200 1814
+"GET / HTTP/1.1" 200 1814
+"GET / HTTP/1.1" 200 1814
+"GET / HTTP/1.1" 200 1814
+"GET / HTTP/1.1" 200 1814
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 1266
+"GET / HTTP/1.1" 200 1814
+"GET /auth/login-fron/ HTTP/1.1" 200 1828
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1352
+"GET /auth/register-fron/ HTTP/1.1" 200 2419
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4357
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 6871
+"GET /admin/auth/group/ HTTP/1.1" 200 10037
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/group/ HTTP/1.1" 200 10037
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/ HTTP/1.1" 200 6871
+"GET /admin/ HTTP/1.1" 200 6871
+"GET /admin/ HTTP/1.1" 200 6871
+"GET /admin/ HTTP/1.1" 200 6871
+"GET /admin/ HTTP/1.1" 200 6871
+"GET /admin/ HTTP/1.1" 200 6871
+Watching for file changes with StatReloader
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 6871
+"GET /admin/token_blacklist/outstandingtoken/ HTTP/1.1" 200 9389
+"GET /admin/auth/group/ HTTP/1.1" 200 10037
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/group/1/change/ HTTP/1.1" 200 12811
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/group/ HTTP/1.1" 200 10037
+"GET /admin/auth/group/3/change/ HTTP/1.1" 200 12807
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/ HTTP/1.1" 200 5309
+"GET /admin/auth/group/3/change/ HTTP/1.1" 200 12807
+"GET /admin/token_blacklist/ HTTP/1.1" 200 6006
+"GET /admin/auth/group/3/change/ HTTP/1.1" 200 12807
+"GET /admin/ HTTP/1.1" 200 6871
+Internal Server Error: /auth/register-fron/
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\accounts\views.py", line 36, in register_view
+    if User.objects.filter(username=username).exists():
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\db\models\manager.py", line 196, in __get__
+    raise AttributeError(
+AttributeError: Manager isn't available; 'auth.User' has been swapped for 'accounts.User'
+"POST /auth/register-fron/ HTTP/1.1" 500 85893
+"GET /auth/register-fron/ HTTP/1.1" 200 2419
+"GET /auth/register-fron/ HTTP/1.1" 200 2419
+Internal Server Error: /auth/register-fron/
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\accounts\views.py", line 36, in register_view
+    if User.objects.filter(username=username).exists():
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\db\models\manager.py", line 196, in __get__
+    raise AttributeError(
+AttributeError: Manager isn't available; 'auth.User' has been swapped for 'accounts.User'
+"POST /auth/register-fron/ HTTP/1.1" 500 85903
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1814
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1352
+"GET /auth/register-fron/ HTTP/1.1" 200 2419
+Internal Server Error: /auth/register-fron/
+Traceback (most recent call last):
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\accounts\views.py", line 54, in register_view
+    admin_group = Group.objects.get(name="Admin")
+NameError: name 'Group' is not defined
+"POST /auth/register-fron/ HTTP/1.1" 500 82028
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /auth/register-fron/ HTTP/1.1" 200 2419
+"POST /auth/register-fron/ HTTP/1.1" 302 0
+"GET /auth/register-fron/ HTTP/1.1" 200 2419
+"GET / HTTP/1.1" 200 1352
+"GET /auth/login-fron/ HTTP/1.1" 200 1704
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET /auth/login-fron/ HTTP/1.1" 200 1704
+"GET / HTTP/1.1" 200 1352
+"GET / HTTP/1.1" 200 1352
+"GET /auth/login-fron/ HTTP/1.1" 200 1704
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1713
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET /auth/user-view-fron/ HTTP/1.1" 200 1262
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET /auth/user-view-fron/ HTTP/1.1" 200 1262
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 3938
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2804
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/base.css HTTP/1.1" 200 22092
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 17972
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 6871
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /admin/auth/group/ HTTP/1.1" 200 10037
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9097
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+D:\Users\91821\Desktop\VRV\rbac\accounts\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/auth/group/ HTTP/1.1" 200 10687
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/accounts/user/ HTTP/1.1" 200 14497
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /admin/accounts/user/4/change/ HTTP/1.1" 200 24342
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8794
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11564
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15502
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+"GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /admin/accounts/user/ HTTP/1.1" 200 14497
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Forbidden: /auth/user-view-fron/
+"GET /auth/user-view-fron/ HTTP/1.1" 403 31
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1352
+"GET /auth/login-fron/ HTTP/1.1" 200 1704
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1713
+"GET /admin/auth/group/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/auth/group/ HTTP/1.1" 200 4313
+"POST /admin/login/?next=/admin/auth/group/ HTTP/1.1" 302 0
+"GET /admin/auth/group/ HTTP/1.1" 200 10687
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/accounts/user/ HTTP/1.1" 200 14497
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET / HTTP/1.1" 200 1814
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1352
+"GET /auth/register-fron/ HTTP/1.1" 200 2419
+"POST /auth/register-fron/ HTTP/1.1" 302 0
+"GET /auth/register-fron/ HTTP/1.1" 200 2419
+"GET /auth/login-fron/ HTTP/1.1" 200 1704
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1814
+"GET /admin/ HTTP/1.1" 200 7963
+"GET /admin/accounts/user/ HTTP/1.1" 200 14497
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1352
+"GET /auth/register-fron/ HTTP/1.1" 200 2419
+"POST /auth/register-fron/ HTTP/1.1" 302 0
+"GET /auth/login-fron/ HTTP/1.1" 200 1704
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1713
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET /admin/accounts/user/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 200 3994
+"GET /auth/register-fron/ HTTP/1.1" 200 2544
+"GET /auth/register-fron/ HTTP/1.1" 200 2544
+"GET /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 200 3700
+"POST /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 302 0
+"GET /admin/accounts/user/ HTTP/1.1" 200 15008
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+Forbidden (CSRF token from POST incorrect.): /auth/register-fron/
+"POST /auth/register-fron/ HTTP/1.1" 403 2503
+"POST /admin/logout/ HTTP/1.1" 200 3555
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4160
+"GET / HTTP/1.1" 200 1352
+"GET /auth/register-fron/ HTTP/1.1" 200 2420
+"POST /auth/register-fron/ HTTP/1.1" 302 0
+"GET /auth/login-fron/ HTTP/1.1" 200 1704
+"GET /admin/accounts/user/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 200 4338
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1738
+"GET /auth/login-fron/ HTTP/1.1" 200 2090
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2200
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2788
+"GET / HTTP/1.1" 200 1739
+"GET /auth/login-fron/ HTTP/1.1" 200 2091
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2578
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET /auth/user-view-fron/ HTTP/1.1" 200 1649
+"GET /auth/login-fron/ HTTP/1.1" 200 2215
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET /auth/login-fron/ HTTP/1.1" 200 2598
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2578
+"GET /auth/register-fron/ HTTP/1.1" 200 2930
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 1698
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /auth/user-view-fron/ HTTP/1.1" 200 1649
+"GET / HTTP/1.1" 200 2201
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2483
+"GET /admin/accounts/user/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 200 3899
+"POST /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 302 0
+"GET /admin/accounts/user/ HTTP/1.1" 200 15523
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1739
+"GET /auth/login-fron/ HTTP/1.1" 200 2091
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2579
+"GET /auth/register-fron/ HTTP/1.1" 200 2930
+"GET / HTTP/1.1" 200 2201
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2201
+"GET /auth/register-fron/ HTTP/1.1" 200 2991
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2129
+"GET /auth/login-fron/ HTTP/1.1" 200 2091
+"GET / HTTP/1.1" 200 2201
+"GET /auth/register-fron/ HTTP/1.1" 200 2991
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2129
+"GET /auth/login-fron/ HTTP/1.1" 200 2091
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2578
+"GET /auth/register-fron/ HTTP/1.1" 200 2622
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2129
+"GET /auth/register-fron/ HTTP/1.1" 200 2498
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1739
+"GET /auth/register-fron/ HTTP/1.1" 200 2498
+"GET /auth/login-fron/ HTTP/1.1" 200 2091
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2579
+"GET /auth/register-fron/ HTTP/1.1" 200 2991
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2201
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2129
+"GET /auth/login-fron/ HTTP/1.1" 200 2091
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2578
+"GET /auth/register-fron/ HTTP/1.1" 200 2902
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2129
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 3030
+"GET / HTTP/1.1" 200 1739
+"GET / HTTP/1.1" 200 2023
+Not Found: /auth/api/admin-view/
+"GET /auth/api/admin-view/ HTTP/1.1" 404 6366
+Not Found: /auth/api/admin-view/
+"GET /auth/api/admin-view/ HTTP/1.1" 404 6366
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /auth/api/admin-view/
+"GET /auth/api/admin-view/ HTTP/1.1" 401 5192
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+Unauthorized: /auth/api/admin-view/
+"GET /auth/api/admin-view/ HTTP/1.1" 401 5192
+Unauthorized: /auth/api/admin-view/
+"GET /auth/api/admin-view/ HTTP/1.1" 401 5192
+Unauthorized: /auth/api/admin-view/
+"GET /auth/api/admin-view/ HTTP/1.1" 401 5192
+Unauthorized: /auth/api/admin-view/
+"GET /auth/api/admin-view/?format=json HTTP/1.1" 401 58
+Unauthorized: /auth/api/admin-view/
+"GET /auth/api/admin-view/ HTTP/1.1" 401 5192
+Unauthorized: /auth/api/admin-view/
+"GET /auth/api/admin-view/ HTTP/1.1" 401 5192
+"GET /api-auth/login/?next=/auth/api/admin-view/ HTTP/1.1" 200 2721
+Unauthorized: /auth/api/admin-view/
+"GET /auth/api/admin-view/ HTTP/1.1" 401 5192
+"GET / HTTP/1.1" 200 2023
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 3030
+Unauthorized: /auth/api/user-view/
+"GET /auth/api/user-view/ HTTP/1.1" 401 5180
+Unauthorized: /auth/api/admin-view/
+"GET /auth/api/admin-view/ HTTP/1.1" 401 5192
+"GET /auth/register-fron/ HTTP/1.1" 200 2778
+Method Not Allowed: /auth/register/
+"GET /auth/register/ HTTP/1.1" 405 5638
+"GET /auth/moderator-view HTTP/1.1" 301 0
+Unauthorized: /auth/moderator-view/
+"GET /auth/moderator-view/ HTTP/1.1" 401 5198
+"GET /api-auth/login/?next=/auth/moderator-view/ HTTP/1.1" 200 2721
+"POST /api-auth/login/ HTTP/1.1" 302 0
+Unauthorized: /auth/moderator-view/
+"GET /auth/moderator-view/ HTTP/1.1" 401 5198
+"GET /api-auth/login/?next=/auth/moderator-view/ HTTP/1.1" 200 2721
+"POST /api-auth/login/ HTTP/1.1" 302 0
+Unauthorized: /auth/moderator-view/
+"GET /auth/moderator-view/ HTTP/1.1" 401 5198
+"GET /api-auth/login/?next=/auth/moderator-view/ HTTP/1.1" 200 2721
+Unauthorized: /auth/moderator-view/
+"GET /auth/moderator-view/ HTTP/1.1" 401 5198
+"GET /api-auth/login/?next=/auth/moderator-view/ HTTP/1.1" 200 2721
+Unauthorized: /auth/moderator-view/
+"GET /auth/moderator-view/ HTTP/1.1" 401 5198
+Method Not Allowed: /auth/register/
+"GET /auth/register/ HTTP/1.1" 405 5638
+"GET /auth/register-fron/ HTTP/1.1" 200 2968
+"GET / HTTP/1.1" 200 2485
+Unauthorized: /auth/api/user-view/
+"GET /auth/api/user-view/ HTTP/1.1" 401 5180
+Not Found: /admin-view
+"GET /admin-view HTTP/1.1" 404 2659
+"GET /auth/admin-view HTTP/1.1" 301 0
+Unauthorized: /auth/admin-view/
+"GET /auth/admin-view/ HTTP/1.1" 401 5150
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api-auth/login/?next=/auth/admin-view/ HTTP/1.1" 200 2717
+"POST /api-auth/login/ HTTP/1.1" 302 0
+Unauthorized: /auth/admin-view/
+"GET /auth/admin-view/ HTTP/1.1" 401 5150
+"GET /api-auth/login/?next=/auth/admin-view/ HTTP/1.1" 200 2717
+"POST /api-auth/login/ HTTP/1.1" 302 0
+Unauthorized: /auth/admin-view/
+"GET /auth/admin-view/ HTTP/1.1" 401 5150
+Unauthorized: /auth/admin-view/
+"GET /auth/admin-view/ HTTP/1.1" 401 5150
+Unauthorized: /auth/admin-view/
+"GET /auth/admin-view/ HTTP/1.1" 401 5150
+Unauthorized: /auth/admin-view/
+"GET /auth/admin-view/ HTTP/1.1" 401 5150
+"GET /auth/login-fron/ HTTP/1.1" 200 2091
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET /auth/login-fron/ HTTP/1.1" 200 2474
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET /auth/login-fron/ HTTP/1.1" 200 2474
+"GET /admin/accounts/user/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 200 4188
+"POST /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 302 0
+"GET /admin/accounts/user/ HTTP/1.1" 200 15523
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+Forbidden (CSRF token from POST incorrect.): /auth/login-fron/
+"POST /auth/login-fron/ HTTP/1.1" 403 2503
+Forbidden (CSRF token from POST incorrect.): /auth/login-fron/
+"POST /auth/login-fron/ HTTP/1.1" 403 2503
+"GET /auth/login-fron/ HTTP/1.1" 200 2215
+"GET /auth/login-fron/ HTTP/1.1" 200 2215
+"GET /auth/login-fron/ HTTP/1.1" 200 2215
+"GET /auth/login-fron/ HTTP/1.1" 200 2215
+"GET /auth/login-fron/ HTTP/1.1" 200 2215
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2863
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 3030
+Not Found: /auth/api/admin-view/
+"GET /auth/api/admin-view/ HTTP/1.1" 404 6366
+"GET / HTTP/1.1" 200 2201
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 3030
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 3030
+"GET / HTTP/1.1" 200 2201
+Not Found: /api-auth/
+"GET /api-auth/ HTTP/1.1" 404 3030
+"GET / HTTP/1.1" 200 2201
+"GET /auth/drf/ HTTP/1.1" 200 1570
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /auth/drf/ HTTP/1.1" 200 13
+"GET /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 200 3699
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/login.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /auth/drf/ HTTP/1.1" 200 1655
+"GET /auth/drf/ HTTP/1.1" 200 1626
+"GET /auth/drf/ HTTP/1.1" 200 1648
+"GET /auth/drf/ HTTP/1.1" 200 1835
+"GET /auth/drf/ HTTP/1.1" 200 1851
+"GET /auth/drf/ HTTP/1.1" 200 1851
+"GET /auth/drf/ HTTP/1.1" 200 1848
+"GET /auth/drf/ HTTP/1.1" 200 2366
+"GET /auth/drf/ HTTP/1.1" 200 2332
+"GET /auth/drf/ HTTP/1.1" 200 2326
+"GET /auth/drf/ HTTP/1.1" 200 2313
+"GET /auth/drf/ HTTP/1.1" 200 2310
+Method Not Allowed: /auth/register/
+"GET /auth/register/ HTTP/1.1" 405 5638
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+Method Not Allowed: /auth/register/
+"GET /auth/register/ HTTP/1.1" 405 5638
+Method Not Allowed: /auth/login/
+"GET /auth/login/ HTTP/1.1" 405 7580
+Method Not Allowed: /auth/token/refresh/
+"GET /auth/token/refresh/ HTTP/1.1" 405 7389
+Unauthorized: /auth/admin-view/
+"GET /auth/admin-view/ HTTP/1.1" 401 5150
+Not Found: /auth/moderator_view
+"GET /auth/moderator_view HTTP/1.1" 404 6617
+Not Found: /auth/admin_moderator_view
+"GET /auth/admin_moderator_view HTTP/1.1" 404 6635
+"GET /auth/user-view HTTP/1.1" 301 0
+Unauthorized: /auth/user-view/
+"GET /auth/user-view/ HTTP/1.1" 401 5138
+"GET /auth/logout HTTP/1.1" 301 0
+Unauthorized: /auth/logout/
+"GET /auth/logout/ HTTP/1.1" 401 3809
+Unauthorized: /auth/user-view/
+"GET /auth/user-view/ HTTP/1.1" 401 5138
+Not Found: /auth/moderator_view
+"GET /auth/moderator_view HTTP/1.1" 404 6617
+"GET /auth/drf/ HTTP/1.1" 200 2310
+Unauthorized: /auth/admin-view/
+"GET /auth/admin-view/ HTTP/1.1" 401 5150
+"GET /auth/moderator-view HTTP/1.1" 301 0
+Unauthorized: /auth/moderator-view/
+"GET /auth/moderator-view/ HTTP/1.1" 401 5198
+Not Found: /auth/admin-moderator-view
+"GET /auth/admin-moderator-view HTTP/1.1" 404 6635
+"GET /auth/drf/ HTTP/1.1" 200 2313
+"GET /auth/admin-or-moderator-view HTTP/1.1" 301 0
+Unauthorized: /auth/admin-or-moderator-view/
+"GET /auth/admin-or-moderator-view/ HTTP/1.1" 401 5276
+Unauthorized: /auth/user-view/
+"GET /auth/user-view/ HTTP/1.1" 401 5138
+Unauthorized: /auth/admin-view/
+"GET /auth/admin-view/ HTTP/1.1" 401 5150
+Unauthorized: /auth/moderator-view/
+"GET /auth/moderator-view/ HTTP/1.1" 401 5198
+Unauthorized: /auth/admin-or-moderator-view/
+"GET /auth/admin-or-moderator-view/ HTTP/1.1" 401 5276
+Unauthorized: /auth/user-view/
+"GET /auth/user-view/ HTTP/1.1" 401 5138
+Unauthorized: /auth/logout/
+"GET /auth/logout/ HTTP/1.1" 401 3809
+"GET /auth/drf/ HTTP/1.1" 200 2290
+"GET / HTTP/1.1" 200 2201
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 1698
+Forbidden: /auth/user-view-fron/
+"GET /auth/user-view-fron/ HTTP/1.1" 403 31
+"GET /auth/login-fron/ HTTP/1.1" 200 2215
+Internal Server Error: /
+Traceback (most recent call last):
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 180, in translate_token
+    op = OPERATORS[token]
+KeyError: '!user.is_authenticated'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py", line 24, in home
+    return render(request, "home.html", {
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 961, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 894, in __init__
+    super().__init__(*args, **kwargs)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 171, in __init__
+    mapped_tokens.append(self.translate_token(token))
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\smartif.py", line 182, in translate_token
+    return self.create_var(token)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 897, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 605, in compile_filter
+    return FilterExpression(token, self)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 706, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '!user.is_authenticated' from '!user.is_authenticated'
+"GET / HTTP/1.1" 500 231160
+Internal Server Error: /
+Traceback (most recent call last):
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 510, in parse
+    compile_func = self.tags[command]
+KeyError: 'endblock'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Users\91821\Desktop\VRV\rbac\rbac\urls.py", line 24, in home
+    return render(request, "home.html", {
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 518, in parse
+    raise self.error(token, e)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\defaulttags.py", line 962, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 512, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\template\base.py", line 563, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 39: 'endblock', expected 'elif', 'else' or 'endif'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 196943
+"GET / HTTP/1.1" 200 2211
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2139
+"GET /auth/login-fron/ HTTP/1.1" 200 2091
+"GET / HTTP/1.1" 200 2066
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2139
+"GET /auth/login-fron/ HTTP/1.1" 200 2091
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2443
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2057
+"GET /auth/user-view-fron/ HTTP/1.1" 200 1649
+"GET /auth/user-view-fron/ HTTP/1.1" 200 1649
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 1698
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2057
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 1698
+"GET /auth/user-view-fron/ HTTP/1.1" 200 1649
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2057
+"GET / HTTP/1.1" 200 2066
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET / HTTP/1.1" 200 4244
+"GET / HTTP/1.1" 200 2066
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET /auth/user-view-fron/ HTTP/1.1" 200 1648
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 1698
+"GET /auth/user-view-fron/ HTTP/1.1" 200 1648
+"GET / HTTP/1.1" 200 2828
+"GET /auth/register-fron/ HTTP/1.1" 200 2902
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET / HTTP/1.1" 200 2474
+"GET /admin/auth/group/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/auth/group/ HTTP/1.1" 200 3693
+"GET / HTTP/1.1" 200 2545
+"GET / HTTP/1.1" 200 2545
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2584
+"GET /auth/login-fron/ HTTP/1.1" 200 2529
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2888
+Forbidden: /auth/admin-view-fron/
+"GET /auth/admin-view-fron/ HTTP/1.1" 403 43
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 2136
+"GET / HTTP/1.1" 200 2919
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2545
+Internal Server Error: /auth/admin-view-fron/
+Traceback (most recent call last):
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "d:\Users\91821\Desktop\VRV\rbac\venv\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view accounts.views.admin_view didn't return an HttpResponse object. It returned None instead.
+"GET /auth/admin-view-fron/ HTTP/1.1" 500 80282
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /auth/admin-view-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3223
+"GET /auth/admin-view-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2919
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 2136
+Forbidden (CSRF token from POST incorrect.): /admin/login/
+"POST /admin/login/?next=/admin/auth/group/ HTTP/1.1" 403 2503
+"GET /admin/login/?next=/admin/auth/group/ HTTP/1.1" 200 3693
+"POST /admin/login/?next=/admin/auth/group/ HTTP/1.1" 302 0
+"GET /admin/auth/group/ HTTP/1.1" 200 10687
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /admin/accounts/user/ HTTP/1.1" 200 15523
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2228
+"GET / HTTP/1.1" 200 2228
+"GET /auth/login-fron/ HTTP/1.1" 200 2529
+"GET / HTTP/1.1" 200 2690
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2584
+"GET /auth/login-fron/ HTTP/1.1" 200 2529
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2888
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 2136
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 2136
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET / HTTP/1.1" 200 2545
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET / HTTP/1.1" 200 2545
+"GET /auth/admin-view-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2919
+"GET /auth/admin-view-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2919
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET / HTTP/1.1" 200 2545
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 2136
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 2136
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2584
+"GET /auth/login-fron/ HTTP/1.1" 200 2528
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2888
+"GET /auth/admin-view-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2919
+"GET / HTTP/1.1" 200 2466
+"GET / HTTP/1.1" 200 2466
+"GET / HTTP/1.1" 200 2466
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2545
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2545
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+Watching for file changes with StatReloader
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET / HTTP/1.1" 200 2545
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2584
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4160
+Unauthorized: /auth/admin-view/
+"GET /auth/admin-view/ HTTP/1.1" 401 5150
+"GET /auth/login-fron/ HTTP/1.1" 200 2528
+"GET /auth/drf/ HTTP/1.1" 200 2604
+Method Not Allowed: /auth/register/
+"GET /auth/register/ HTTP/1.1" 405 5638
+Method Not Allowed: /auth/login/
+"GET /auth/login/ HTTP/1.1" 405 7580
+"GET / HTTP/1.1" 200 2228
+"GET /auth/login-fron/ HTTP/1.1" 200 2528
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2888
+"GET /auth/user-view-fron/ HTTP/1.1" 200 2086
+"GET /admin/accounts/user/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 200 3699
+"POST /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 302 0
+"GET /admin/accounts/user/ HTTP/1.1" 200 15523
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/accounts/user/4/change/ HTTP/1.1" 200 24342
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-unknown.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 304 0
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /admin/accounts/user/ HTTP/1.1" 200 15523
+"GET /admin/accounts/user/ HTTP/1.1" 200 15523
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/accounts/user/6/change/ HTTP/1.1" 200 24352
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+D:\Users\91821\Desktop\VRV\rbac\accounts\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2690
+"GET / HTTP/1.1" 200 2690
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2584
+"GET /auth/login-fron/ HTTP/1.1" 200 2528
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3034
+"GET /auth/login-fron/ HTTP/1.1" 200 2652
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3034
+"GET / HTTP/1.1" 200 2627
+"GET /auth/admin-view-fron/ HTTP/1.1" 200 2091
+"GET /auth/user-view-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3001
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 2136
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2594
+"GET /auth/login-fron/ HTTP/1.1" 200 2528
+"POST /auth/login-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2893
+"GET /auth/admin-view-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2924
+"GET /auth/user-view-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2924
+"GET /auth/admin-moderator-view-fron/ HTTP/1.1" 200 2136
+"GET /auth/drf/ HTTP/1.1" 200 2728
+"GET / HTTP/1.1" 200 2550
+"GET / HTTP/1.1" 200 2550
+"GET /auth/logout-fron/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 2537
+"GET / HTTP/1.1" 200 2181
+Unauthorized: /auth/admin-view/
+"GET /auth/admin-view/ HTTP/1.1" 401 5150
+"GET /api-auth/login/?next=/auth/admin-view/ HTTP/1.1" 200 2717
+"GET / HTTP/1.1" 200 2181
+"GET / HTTP/1.1" 200 2181
+"GET / HTTP/1.1" 200 2181
+"GET / HTTP/1.1" 200 2181
+"GET / HTTP/1.1" 200 2181
+"GET /auth/register-fron/ HTTP/1.1" 200 3216
+"GET / HTTP/1.1" 200 4617
+"GET / HTTP/1.1" 200 4616
+"GET / HTTP/1.1" 200 4617
+"GET / HTTP/1.1" 200 4617
+"GET / HTTP/1.1" 200 4617
+"GET / HTTP/1.1" 200 4689
+"GET / HTTP/1.1" 200 5078
+"GET / HTTP/1.1" 200 4490
+"GET / HTTP/1.1" 200 4490
+"GET / HTTP/1.1" 200 4490
+"GET / HTTP/1.1" 200 4486
+"GET / HTTP/1.1" 200 4487
+"GET / HTTP/1.1" 200 4779
+"GET / HTTP/1.1" 200 4456
+"GET / HTTP/1.1" 200 4507
+"GET / HTTP/1.1" 200 2769
+"GET / HTTP/1.1" 200 2769
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2662
+"GET / HTTP/1.1" 200 2159

@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}API endpoints{% endblock %}
+
+{% block content %}
+<div class="mt-4">
+    <h3>API Endpoints</h3>
+    <ul>
+        <li><a href="/auth/register/" class="btn btn-info">Registration</a></li>
+        <li><a href="/auth/login/" class="btn btn-dark">Login</a></li>
+        <li><a href="/auth/token/refresh/" class="btn btn-dark">Token refresh</a></li>
+        <li><a href="/auth/admin-view/" class="btn btn-success">Admin</a></li>
+        <li><a href="/auth/moderator-view" class="btn btn-success">Moderator</a></li>
+        <li><a href="/auth/admin-or-moderator-view" class="btn btn-success">Admin and Moderator</a></li>
+        <li><a href="/auth/user-view" class="btn btn-success">User</a></li>
+        <li><a href="/auth/logout" class="btn btn-info">Logout</a></li>
+    </ul>
+</div>
+
+{% endblock %}

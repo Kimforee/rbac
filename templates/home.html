@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<h1 class="text-center">Welcome to the RBAC System</h1>
+<div class="container mt-3">
+    {% if messages %}
+        <div id="message-container">
+            {% for message in messages %}
+                <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+                    {{ message }}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            {% endfor %}
+        </div>
+    {% endif %}
+</div>
+
+<div class="text-center mt-4">
+    {% if not user.is_authenticated or is_admin%}
+    <a href="/auth/register-fron/" class="btn btn-primary">Register</a>
+    {% endif %}
+    {% if not user.is_authenticated %}
+    <a href="/auth/login-fron/" class="btn btn-secondary">Login</a>
+    {% endif %}
+    {% if user.is_authenticated %}
+    <a href="/auth/admin-view-fron/" class="btn btn-info">Admin View</a>
+    {% endif %}
+    {% if user.is_authenticated %}
+    <a href="/auth/user-view-fron/" class="btn btn-success">User View</a>
+    {% endif %}
+    {% if user.is_authenticated %}
+    {% if is_admin or is_moderator %}
+    <a href="{% url 'admin_moderator_view_fron' %}" class="btn btn-warning">Admin/Moderator View</a>
+    {% endif %}
+    {% endif %}
+    {% if user.is_authenticated %}
+    <a href="{% url 'logout' %}" class="btn btn-dark">Logout</a>
+    <a href="{% url 'drf' %}" class="btn btn-dark">DRF UI</a>
+    {% endif %}
+</div>
+{% endblock %}
