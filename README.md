@@ -22,7 +22,6 @@ When admin tries for user view but can gain privilage manually :
 4. [Technologies Used](#technologies-used)
 5. [Environment Variables](#environment-variables)
 6. [Testing Tokens](#testing-tokens)
-7. [Static Files](#static-files)
 
 ---
 
@@ -159,20 +158,6 @@ You can use the following JWT tokens to test role-based access:
    - Generate a token by logging in with a standard user account.
 
 ---
-
-## **Static Files**
-
-To collect static files for production:
-```bash
-python manage.py collectstatic
-```
-
-Ensure `STATIC_URL` and `STATIC_ROOT` are correctly set in `settings.py`:
-```python
-STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
-```
-
 ## **License**
 
 This project is licensed under the MIT License.
